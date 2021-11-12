@@ -1,2 +1,2 @@
-# calculadoraPace
-Projeto em HTML, CSS e JS para calcular velocidade média, pace e quantas calorias foram gastas após o treino.
+# Calculadora de Pace, Velocidade média e calorias gastas.
+<a href=""><img src="pace.png"></a>
